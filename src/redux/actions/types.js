@@ -1,0 +1,16 @@
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+export const REFRESH_SUCCESS = 'REFRESH_SUCCESS';
+export const REFRESH_ERROR = 'REFRESH_ERROR';
+export const LOGOUT = 'LOGOUT';
+export const LOGOUT_ERROR = 'LOGOUT_ERROR';
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+
+export const GET_PRODUCTS = 'GET_PRODUCTS';
+export const GET_SINGLE_PRODUCT = 'GET_SINGLE_PRODUCT';
+export const FILTER_PRODUCT = 'FILTER_PRODUCT';
+export const PRODUCTS_ERORR = 'PRODUCTS_ERORR';
+export const SINGLE_PRODUCT_ERORR = 'SINGLE_PRODUCT_ERORR';
